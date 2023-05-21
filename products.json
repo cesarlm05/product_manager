@@ -7,5 +7,23 @@
     "code": "23234",
     "stock": 65,
     "id": 1
+  },
+  {
+    "title": "Monitor LCD",
+    "description": "144hz",
+    "price": 179900,
+    "thumbnail": "https://www.istore.co.za/media/PO-banner_1.png",
+    "code": "23244",
+    "stock": 75,
+    "id": 2
+  },
+  {
+    "title": "Procesador I7",
+    "description": "Intel i7 12gen",
+    "price": 179900,
+    "thumbnail": "https://www.istore.co.za/media/PO-banner_1.png",
+    "code": "23556",
+    "stock": 50,
+    "id": 3
   }
 ]
